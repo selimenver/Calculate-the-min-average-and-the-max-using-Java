@@ -1,0 +1,1 @@
+# Calculate-the-min-average-and-the-max-using-Java
